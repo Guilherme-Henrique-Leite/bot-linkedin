@@ -1,4 +1,3 @@
-# config.py
 
 login = {
     "email": "seu_email@gmail.com",
